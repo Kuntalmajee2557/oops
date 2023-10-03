@@ -233,6 +233,7 @@ int main(){
 
 //destructor using pointer
 
+/*
 #include <iostream>
 using namespace std;
 class phone{
@@ -253,6 +254,7 @@ int main(){
     delete nokia;
     return 0;
 }
+*/
 
 
 
